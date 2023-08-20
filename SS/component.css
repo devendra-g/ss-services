@@ -1,0 +1,15 @@
+.container {
+  max-width: 120rem;
+  margin: 9rem auto 4.5rem auto;
+}
+/* .margin {
+  margin: 8rem auto 0 auto;
+} */
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 0;
+  align-items: center;
+  justify-items: center;
+  color: #fff;
+}
